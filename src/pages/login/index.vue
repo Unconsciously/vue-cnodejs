@@ -14,7 +14,7 @@
 export default {
   data() {
     return {
-      token: "e5acd93e-1fd8-43e8-b0b0-bf81d436519e",
+      token: "",
       user: null
     };
   },
